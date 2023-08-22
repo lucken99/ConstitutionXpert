@@ -5,6 +5,6 @@ QA on Indian Constitution using Retrieval Augmented Generation with LLMs
 Indian Constitution including above 400 articles, 12 schedules and parts wise summaries and other important information.
 
 First Version includes:
-Cohere llms
-Cohere Embeddings
+Cohere llms,
+Cohere Embeddings,
 Panel based chatbot gui
